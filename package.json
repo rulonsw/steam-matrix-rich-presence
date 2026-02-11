@@ -1,0 +1,19 @@
+{
+  "name": "steam-matrix-rich-presence",
+  "version": "1.0.0",
+  "description": "Open implementation of Matrix's bot platform to provide rich presence to users in a particular Matrix chat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rulonsw/steam-matrix-rich-presence.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rulonsw/steam-matrix-rich-presence/issues"
+  },
+  "homepage": "https://github.com/rulonsw/steam-matrix-rich-presence#readme"
+}
